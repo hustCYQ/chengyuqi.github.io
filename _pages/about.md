@@ -34,7 +34,7 @@ If you are interested in my academic researches or projects, please feel free to
 
 
 # 🔥 News
-
+- *2025.12*: &nbsp;🎉🎉 Our paper [Towards Zero-shot Point Cloud Anomaly Detection: A Multi-View Projection Framework](https://export.arxiv.org/abs/2409.13162) for Zero-shot Point Cloud Anomaly Detection has been accepted by IEEE Transactions on Systems, Man, and Cybernetics: Systems.
 - *2025.12*: &nbsp;🎉🎉 Our paper [A Comprehensive Survey for Real-World Industrial Defect Detection: Challenges, Approaches, and Prospects](https://arxiv.org/abs/2507.13378) has been accepted by Journal of Manufacturing Systems.
 - *2025.11*: &nbsp;🎉🎉 Our paper addressed [3D Anomaly Detection](https://arxiv.org/pdf/2507.07435) has been accepted by **AAAI 2026 (Oral)**.
 - *2025.11*: &nbsp;🏆🏆 We won the **National Grand Prize (全国特等奖)** in the National AI Application Scenario Innovation Challenge.
@@ -78,6 +78,13 @@ If you are interested in my academic researches or projects, please feel free to
 
 <h2 id="Peer-Reviewed Publications" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">Peer-Reviewed Publications</h2>
 <ol reversed>
+
+
+  <li id="FA-Manuscript1"> 
+    Towards Zero-shot Point Cloud Anomaly Detection: A Multi-View Projection Framework <a href="https://arxiv.org/abs/2409.13162">[Paper]</a> <a href="https://github.com/hustCYQ/MVP-PCLIP">[Code]</a> <br> 
+     <span style="color:#b02418; font-weight:bold;">Yuqi Cheng#</span>, Yunkang Cao#, Guoyang Xie, Zhichao Lu, Weiming Shen* <br>
+    <i>IEEE Transactions on Systems, Man, and Cybernetics: Systems <strong>(IEEE TSMC)</strong></i> 2025. (JCR Q1, Top)
+  </li>
 
 
   <li id="FA-Manuscript1"> 
@@ -204,11 +211,7 @@ If you are interested in my academic researches or projects, please feel free to
 <ol reversed>
 
 
-  <li id="FA-Manuscript1"> 
-    Towards Zero-shot Point Cloud Anomaly Detection: A Multi-View Projection Framework <a href="https://arxiv.org/abs/2409.13162">[Paper]</a> <a href="https://github.com/hustCYQ/MVP-PCLIP">[Code]</a> <br> 
-     <span style="color:#b02418; font-weight:bold;">Yuqi Cheng#</span>, Yunkang Cao#, Guoyang Xie, Zhichao Lu, Weiming Shen* <br>
-    <i>Submitted to IEEE Transactions on Systems, Man, and Cybernetics: Systems <strong>(IEEE TSMC)</strong></i> . (Under Review)
-  </li>
+
 
   <li id="FA-Manuscript1"> 
     Irregularity-Aware 3D Anomaly Detection for Product Quality Control <br> 
