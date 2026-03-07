@@ -77,7 +77,7 @@ If you are interested in my academic researches or projects, please feel free to
 <span style="color:#b02418; font-weight:bold;">#</span> co-first author | <span style="color:#b02418; font-weight:bold;">*</span> corresponding author <br> 
 
 <h2 id="Peer-Reviewed Publications" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">Peer-Reviewed Publications</h2>
-<ol reversed>
+<ol>
 
 
   <li id="FA-Manuscript1"> 
@@ -208,7 +208,7 @@ If you are interested in my academic researches or projects, please feel free to
 
 
 <h2 id="Manuscripts under Review" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">Manuscripts under Review</h2>
-<ol reversed>
+<ol>
 
 
 
