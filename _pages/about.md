@@ -47,6 +47,7 @@ My research is driven by **practical needs from real industrial environments**, 
 - *2025.02*: &nbsp;🎉🎉 Our paper addressed [Point Cloud Anomaly Detection](https://ieeexplore.ieee.org/document/10898004) has been accepted by IEEE Transactions on Automation Science and Engineering.
 - *2025.01*: &nbsp;🏆🏆 I won the **2024 Outstanding Reviewers** of the IEEE Instrumentation and Measurement Society (IEEE TIM).
 - *2025.01*: &nbsp;🎉🎉 Our paper addressed [Zero-shot Image Anomaly Detection](https://arxiv.org/abs/2305.10724) has been accepted by IEEE Transactions on Cybernetics.
+
 # 📝 Publications 
 
 
