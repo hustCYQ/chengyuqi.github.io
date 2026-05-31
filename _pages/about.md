@@ -70,7 +70,7 @@ My research is driven by **practical needs from real industrial environments**, 
 
   <li id="OT-Manuscript3"> 
     Coupled Lévy-Convolutional Differential Evolution: An Adaptive Framework for UAV Path Planning in Complex Urban Environments <br> 
-    Haobin Zhang， <span style="color:#b02418; font-weight:bold;">Yuqi Cheng</span>, Hongjun San∗, Jiupeng Chen, Weiming Shen <br>
+    Haobin Zhang，<span style="color:#b02418; font-weight:bold;">Yuqi Cheng#</span>, Hongjun San∗, Jiupeng Chen, Weiming Shen <br>
     <i>Submitted to Elsevier. </i> (Under Review)
   </li>
 
@@ -144,7 +144,7 @@ My research is driven by **practical needs from real industrial environments**, 
 
   <li id="FA-Manuscript1">  
     Synthesis4AD: Synthetic Anomalies are All You Need for 3D Anomaly Detection <br> 
-     Yihan Sun, <span style="color:#b02418; font-weight:bold;">Yuqi Cheng</span>, Junjie Zu, Yuxiang Tan, Guoyang Xie, Yucheng Wang, Yunkang Cao*, Weiming Shen* <br>
+     Yihan Sun, <span style="color:#b02418; font-weight:bold;">Yuqi Cheng#</span>, Junjie Zu, Yuxiang Tan, Guoyang Xie, Yucheng Wang, Yunkang Cao*, Weiming Shen* <br>
     <i>Submitted to IEEE. </i> (Under Review)
   </li>
 
