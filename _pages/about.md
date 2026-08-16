@@ -34,6 +34,7 @@ My research is driven by **practical needs from real industrial environments**, 
 
 # 🔥 Recent News (Since 2025.01)
 
+- *2026.08*: &nbsp;🎉🎉 Our papers addressed [UAV Path Planning](https://www.sciencedirect.com/science/article/abs/pii/S0950705126015546) has been accepted by Knowledge-Based Systems.
 - *2026.05*: &nbsp;🎉🎉 Our papers addressed [Multi-view and Multi-illumination Anomaly Detection]() and [Robot Active Observation]() has been accepted by IEEE CASE 2026.
 - *2026.04*: &nbsp;🎉🎉 Our paper addressed [Multi-view and Multi-illumination Anomaly Detection](https://www.sciencedirect.com/science/article/pii/S003132032600631X) has been accepted by Pattern Recognition.
 - *2025.12*: &nbsp;🎉🎉 Our paper addressed [Zero-shot Point Cloud Anomaly Detection](https://export.arxiv.org/abs/2409.13162) has been accepted by IEEE Transactions on Systems, Man, and Cybernetics: Systems.
@@ -61,7 +62,12 @@ My research is driven by **practical needs from real industrial environments**, 
 <h2 id="Robotics" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">Robotics</h2>
 <ol>
 
-
+  <li id="OT-Manuscript3"> 
+    Coupled Lévy-Convolutional Differential Evolution: An Adaptive Framework for UAV Path Planning in Complex Urban Environments <br> 
+    Haobin Zhang，<span style="color:#b02418; font-weight:bold;">Yuqi Cheng#</span>, Hongjun San∗, Jiupeng Chen, Weiming Shen <br>
+    <i>Knowledge-Based Systems </i>. 2026. (中科院Top)
+  </li>
+  
   <li id="OT-Manuscript3"> 
     Iterative Verify-and-Refine Vision-Language Agent for Reliable Dual-Arm Manipulation <br> 
     <span style="color:#b02418; font-weight:bold;">Yuqi Cheng</span>, Zhilun Hu, Cheng Jiang, Qingyu Peng, Weiming Shen* <br>
@@ -69,11 +75,7 @@ My research is driven by **practical needs from real industrial environments**, 
   </li>
 
 
-  <li id="OT-Manuscript3"> 
-    Coupled Lévy-Convolutional Differential Evolution: An Adaptive Framework for UAV Path Planning in Complex Urban Environments <br> 
-    Haobin Zhang，<span style="color:#b02418; font-weight:bold;">Yuqi Cheng#</span>, Hongjun San∗, Jiupeng Chen, Weiming Shen <br>
-    <i>Submitted to Elsevier. </i> (Under Review)
-  </li>
+
 
 
   <li id="OT-Manuscript3"> 
