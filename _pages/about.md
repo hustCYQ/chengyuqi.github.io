@@ -34,6 +34,7 @@ My research is driven by **practical needs from real industrial environments**, 
 
 # 🔥 Recent News (Since 2025.01)
 
+- *2026.08*: &nbsp;🎉🎉 Our papers addressed [3D Anomaly Detection]() has been accepted by IEEE Transactions on Automation Science and Engineering.
 - *2026.08*: &nbsp;🎉🎉 Our papers addressed [UAV Path Planning](https://www.sciencedirect.com/science/article/abs/pii/S0950705126015546) has been accepted by Knowledge-Based Systems.
 - *2026.05*: &nbsp;🎉🎉 Our papers addressed [Multi-view and Multi-illumination Anomaly Detection]() and [Robot Active Observation]() has been accepted by IEEE CASE 2026.
 - *2026.04*: &nbsp;🎉🎉 Our paper addressed [Multi-view and Multi-illumination Anomaly Detection](https://www.sciencedirect.com/science/article/pii/S003132032600631X) has been accepted by Pattern Recognition.
@@ -123,7 +124,11 @@ My research is driven by **practical needs from real industrial environments**, 
     <i>AAAI Conference on Artificial Intelligence <strong>(AAAI 2026 Oral)</strong></i>.
   </li>
 
-
+  <li id="FA-Manuscript1"> 
+    Irregularity-Aware 3D Anomaly Detection for Product Quality Control <br> 
+     <span style="color:#b02418; font-weight:bold;">Yuqi Cheng</span>, Yunkang Cao*, Haiming Yao, Wei Luo, Jiangning Zhang, Weiming Shen* <br>
+    <i>IEEE Transactions on Automation Science and Engineering <strong>(IEEE TASE)</strong></i> 2026. (中科院Top)
+  </li>
 
   <li id="FA-Manuscript1"> 
     Boosting Global-Local Feature Matching via Anomaly Synthesis for Multi-Class Point Cloud Anomaly Detection <a href="https://ieeexplore.ieee.org/document/10898004">[Paper]</a> <a href="https://github.com/hustCYQ/GLFM-Multi-class-3DAD">[Code]</a> <br>  
@@ -138,11 +143,7 @@ My research is driven by **practical needs from real industrial environments**, 
     <i>IEEE Transactions on Instrumentation and Measurement <strong>(IEEE TIM).</strong></i> 2024. (中科院Top)
   </li>
 
-  <li id="FA-Manuscript1"> 
-    Irregularity-Aware 3D Anomaly Detection for Product Quality Control <br> 
-     <span style="color:#b02418; font-weight:bold;">Yuqi Cheng</span>, Yunkang Cao*, Haiming Yao, Wei Luo, Jiangning Zhang, Weiming Shen* <br>
-    <i>Submitted to IEEE. </i>  (Under Review)
-  </li>
+
 
 
   <li id="FA-Manuscript1">  
