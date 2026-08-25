@@ -24,7 +24,7 @@ redirect_from:
 🌐Welcome to my homepage! I am Cheng Yuqi (程育奇). I got my bachelor's degree (2020) and Master's degree (2023) from Huazhong University of Science and Technology. Now I am a Ph.D student in Huazhong University of Science and Technology under the supervision of Prof. [Shen Weiming](https://scholar.google.com/citations?hl=zh-CN&user=FuSHsx4AAAAJ&view_op=list_works&sortby=pubdate).
 
 
-我的研究工作围绕**工业现场的实际需求**展开，主要聚焦于**机器人操作与视觉检测(包括2D视觉与3D视觉)**。目前我以**第一/共一**作者身份已经完成**论文 15 篇，其中 9 篇已被录用**。我的研究成果已经在**航空航天（中航南方、上海商飞）、核电（中核105所）、汽车（大众、特斯拉）、3C（iPhone）、烟草（湖北中烟）**等多个行业实现落地应用🚀🚀🚀。未来我的研究将重点聚焦于具身智能与 AI Agent 等方向，如果您对我的研究方向或相关项目感兴趣，欢迎随时与我联系。😊😊😊
+我的研究工作围绕**工业现场的实际需求**展开，主要聚焦于**机器人操作与视觉检测(包括2D视觉与3D视觉)**。目前我以**第一/共一**作者身份已经完成**论文 15 篇，其中 12 篇已被录用**。我的研究成果已经在**航空航天（中航南方、上海商飞）、核电（中核105所）、汽车（大众、特斯拉）、3C（iPhone）、烟草（湖北中烟）**等多个行业实现落地应用🚀🚀🚀。未来我的研究将重点聚焦于具身智能与 AI Agent 等方向，如果您对我的研究方向或相关项目感兴趣，欢迎随时与我联系。😊😊😊
 
 
 My research is driven by **practical needs from real industrial environments**, with a primary focus on **robotic manipulation and visual inspection (including both 2D and 3D computer vision)**. To date, I have completed **15 papers as first or co-first author, among which 9 have been accepted for publication**. My meresearch have been deployed in real-world applications across multiple industries, including **aerospace (AVIC South, COMAC Shanghai), nuclear power (CNNC 105 Institute), automotive manufacturing (Volkswagen, Tesla), consumer electronics (iPhone production lines), and the tobacco industry (Hubei Tobacco)** 🚀🚀🚀. Looking ahead, my research will focus on embodied intelligence and AI agents. If you are interested in my research topics or related projects, please feel free to contact me. 😊😊😊
@@ -305,12 +305,5 @@ My research is driven by **practical needs from real industrial environments**, 
 | 2016.09 – 2020.06 | Huazhong University of Science and Technology | B.S. in Mechanical Design, Manufacture & Automation | – |
 
 
-
-
-# 💻 Internships
-- *2019.07 - 2019.08*, Huawei(华为), China. Design of Huawei cloud fault diagnosis algorithm.
-- *2022.05 - 2022.08*, Meituan(美团), China. Research on 3D object detection in UAV delivery.
-- *2024.10 - 2025.03*, CATL(宁德时代), China. Research on 3D measurement and anomaly detection of battery packs.
-- *2025.03 - 2025.07*, Geely Automobile Research Institute(吉利汽车研究院), China. Research on dual-arm robot manipulation.
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=GEx5UNgsTQZO0HXocUoir2X2jb3xYvYzLS-DAh9BvTY&co=2793de&ct=ffffff'></script>
